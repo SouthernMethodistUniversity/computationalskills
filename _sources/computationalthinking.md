@@ -1,13 +1,4 @@
-# Coding 
-* **To learn to code is learn about structure of computers, text editors and their logic.** 
-* If you research involves "organizing and analyzing data, abstracting in search of patterns, and breaking complex problems into discrete, solvable parts" then it may be useful to learn to code.  
-* Understanding the affordances and limitations of a computational approach for your project will also help you better imagine, plan manage your project. Even if you are not directly involved in the coding aspect, this will give you the tools to better collaborate with those who will.
-
-    * Introduces conceptualization/helps to understand directory structure. 
-    * Helps understand how scripts work, so when you set up tools in the future, you can set them up to be useful for what you are trying to do. 
-    * Getting started: learn how to use the command line, how to read technical documentation, use libraries, how to look up and resolve error messages,
-
-# Computational thinking?
+# Computational thinking
 * "Computational thinking is a pattern of problem solving that involves organizing and analyzing data, abstracting in search of patterns, and breaking complex problems into discrete, solvable parts." [Jeannette Wing, 2006, doi: 10.1145/1118178.1118215](https://dl.acm.org/doi/10.1145/1118178.1118215) 
 * "It enables humanities researchers to formulate new questions and to think through how to leverage both data and computational processes to explore those questions. While these skills may be taught in the context of a particular programming language, in our case Python, the patterns of thought are transferable to any language or computational process."
 [Lessons Learned from “Bridging the Gap: Women, Code, and the Digital Humanities” Reflection on 2014 ACH Microgrant by Celeste Sharpe and Jeri Wieringa](http://ach.org/blog/2015/05/06/bridging-the-gap/)
@@ -19,6 +10,17 @@
 [![tasks](https://imgs.xkcd.com/comics/scientist_tech_help.png)](https://xkcd.com/2341/)
 
 *[Explain xkcd 2341](https://www.explainxkcd.com/wiki/index.php/2341:_Scientist_Tech_Help)
+
+# Coding 
+* **To learn to code is learn about structure of computers, text editors and their logic.** 
+* If you research involves "organizing and analyzing data, abstracting in search of patterns, and breaking complex problems into discrete, solvable parts" then it may be useful to learn to code.  
+* Understanding the affordances and limitations of a computational approach for your project will also help you better imagine, plan manage your project. Even if you are not directly involved in the coding aspect, this will give you the tools to better collaborate with those who will.
+
+    * Introduces conceptualization/helps to understand directory structure. 
+    * Helps understand how scripts work, so when you set up tools in the future, you can set them up to be useful for what you are trying to do. 
+    * Getting started: learn how to use the command line, how to read technical documentation, use libraries, how to look up and resolve error messages,
+
+
 
 ## Understanding computing
 This session is to familiarize you with important foundational concepts and to give you a framework for understanding the types of computational methods you can use on a projects, including: minimal computing, tool choice or coding.  Finally, this session aims to give you language to conceptualize what is possible and to communicate more effectively with partners. 

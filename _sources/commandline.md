@@ -1,8 +1,6 @@
-# How do you interact with your computer?
-* Most of us are used to a graphical user interface [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) but the command line allows you more control.
-
 ## Command Line
-
+ * **How do you interact with your computer?**
+* Most of us are used to a graphical user interface [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) but the command line allows you more control.
 * What is the command line and why is it like this?
 
 The command line is a text-based way of interacting with your computer. Working in command line helps you make a mental model of how you environment is layed out. This environment is the result of a series of choices, made by humans.  
