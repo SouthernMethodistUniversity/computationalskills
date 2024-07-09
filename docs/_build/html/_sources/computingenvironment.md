@@ -1,4 +1,3 @@
-
 # Computing Environment  
 * "The computing environment involves the collection of computer machinery, data storage devices, work stations, software applications, and networks that support the processing and exchange of electronic information..." -[Computing Environment](https://www.sciencedirect.com/topics/computer-science/computing-environment) 
 
