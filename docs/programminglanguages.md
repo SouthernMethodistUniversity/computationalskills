@@ -1,19 +1,19 @@
 # Programming languages  
 
  Which language should you learn? 
- - Just as choosing which language you will use for your foreign language requirement is based on your research question, there are multiple programming languages you can choose to learn. 
+ - Just as choosing which language you will use for your foreign language requirement is based on your research question, there are multiple programming languages you can choose to learn.
+ * How much of the language do you need to learn? 
+  * Does your project require basic fluency or only reading comprehension?  
  
  In data science and digital humanities, R and Python are the most common. Most 'introduction to a programming language' sessions will focus on one or the other. 
 
-  * How much of the language do you need to learn? 
-  * Does your project require basic fluency or only reading comprehension? 
 
-## Python 
+<!-- ## Python 
 * [Python is an interpreted, high-level, general-purpose programming language.](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ## R 
 * [R is a programming language and free software environment for statistical computing and graphics.](https://en.wikipedia.org/wiki/R_(programming_language))
-* Learning R fundamentals is a gateway to analyzing data, creating visualizations, composing interactive websites, scraping the Internet, and engaging in distant reading of texts.
+* Learning R fundamentals is a gateway to analyzing data, creating visualizations, composing interactive websites, scraping the Internet, and engaging in distant reading of texts.-->
 
 ## R vs. Python
 <!--* [Comparing Python vs R Objectively.](https://www.dataquest.io/blog/python-vs-r/): “where Python is more object-oriented, and R is more functional.”
@@ -24,7 +24,7 @@
 * [Python or R for Data Analysis: Which Should I Learn?](https://www.coursera.org/articles/python-or-r-for-data-analysis)
 
 
-# Tutorials (online notebooks)
+## Tutorials (online notebooks)
 When you see language referring to *interactive tutorials* they are referring to online notebooks (such as [Google Colab](https://colab.google/) or [Jupyter notebooks](https://jupyter.org/)) that combine *executable code* and rich *text* in a single document. 
 
  These allow instructors to have text explanations alongside sections with executable code (code that you can run and modify to see how it works) in the same document. 
@@ -32,14 +32,14 @@ When you see language referring to *interactive tutorials* they are referring to
 There is an introductory tutorial to 'Getting Started with Jupyter Notebooks' available through [JSTOR Constellate](https://guides.smu.edu/c.php?g=1397994) Tutorials.
 
 # Python
-- You have access to Python tutorials with your SMU log-in in **Constellate **
+- You have access to Python tutorials with your SMU log-in in **Constellate**
 - To access [JSTOR Constellate](https://guides.smu.edu/c.php?g=1397994) Tutorials, [log in](https://constellate.org/docs/user-quick-start) to Constellate and navigate to the [tutorials](https://constellate.org/dashboard/tutorials) section on your dashboard. From there, you can explore their growing library of interactive tutorials covering a wide range of text analysis topics.
   - Beginner Python Tutorials: Get started with Jupyter notebooks with an introduction to the Python Programming language for absolute beginners.
   - Python intermediate Tutorials: Expand your Python skills learning to work with files, comprehensions, and object-oriented programming.
 
     - [Guide to Getting started with Constellate](https://constellate.org/docs/topic/explanation)
 
-Additional Python lessons:
+**Additional Python lessons**
 * [Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/): This lesson is an introduction to programming in Python 3 for people with little or no previous programming experience. Via [Software Carpentry](https://software-carpentry.org/lessons/)
 * [Python lessons](https://programminghistorian.org/en/lessons/?topic=python) from [Programming Historian](https://programminghistorian.org/)
 * [Text Analysis Pedagogy Institute (TAPI) Open Educational Resources](https://labs.jstor.org/projects/text-analysis-pedagogy-institute-2/)
@@ -52,9 +52,8 @@ We highly recommend working though these tutorials or attending some workshops i
 
 * [Full Python glossary](https://docs.python.org/3/glossary.html)
 
-### Additional Coding & technology lessons:
-[You also have access to online courses through LinkedIn Learning & to O'Reilly Learning Platform for Higher Education Tech with your SMU logon.](https://guides.smu.edu/computationalskills)
-
+### Additional coding & technology lessons
+You also have access to online courses through [LinkedIn Learning & to O'Reilly Learning Platform for Higher Education Tech](https://guides.smu.edu/computationalskills) with your SMU logon.
 
 
 -----
