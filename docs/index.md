@@ -17,6 +17,8 @@
     * [![tasks](https://imgs.xkcd.com/comics/average_familiarity.png)](https://xkcd.com/2501//)
     * [Explain xkcd 1425](https://www.explainxkcd.com/wiki/index.php/2501:_Average_Familiarity)
 
+* [Speaking the IT Language: A Basic Technical Dictionary for Non-Technical People](https://learnpython.com/blog/speaking-the-it-language-a-basic-technical-dictionary-for-non-technical-people/)
+
 
 Content: 
 Current Contributors
