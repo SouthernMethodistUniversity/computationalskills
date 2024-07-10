@@ -49,8 +49,20 @@ There is an introductory tutorial to 'Getting Started with Jupyter Notebooks' av
 We highly recommend working though these tutorials or attending some workshops in order to become familiar  with some basic python terminology such as: operators, expressions, data types, variables, basic functions. 
 * [Python Terms Beginners Should Know – Part 1](https://learnpython.com/blog/python-terms-for-beginners/) & [Python Terms Beginners Should Know – Part 2](https://learnpython.com/blog/python-terms-for-beginners-2/)
 * [Python Terms: A to Z Glossary](https://www.coursera.org/resources/python-terms)
-
 * [Full Python glossary](https://docs.python.org/3/glossary.html)
+
+
+
+# Installing packages
+As you are learning python, installing a a package to help manage packages will be useful.
+
+## Anaconda 
+Anaconda is a distribution of the Python and R programming languages that aims to simplify package management and deployment. It allows you to install, update, and manage libraries. Anaconda includes Jupyter Notebooks, and allows you to create separate environments for different projects.
+
+* [Anaconda Distribution](https://docs.anaconda.com/reference/glossary/#anaconda-distribution)
+" A downloadable, open-source, high-performance, optimized Python and R distribution with 250+ packages automatically included. Anaconda Distribution provides the option to easily install an additional 7,500+ open-source packages for data science, including advanced and scientific analytics. Anaconda Distribution includes the anaconda package, Anaconda Navigator, and the conda package and environment manager. Anaconda Distribution is available for Windows, macOS, and Linux. 
+
+* [Installing Anaconda](https://docs.anaconda.com/anaconda/install/index.html)
 
 ### Additional coding & technology lessons
 You also have access to online courses through [LinkedIn Learning & to O'Reilly Learning Platform for Higher Education Tech](https://guides.smu.edu/computationalskills) with your SMU logon.
